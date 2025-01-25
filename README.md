@@ -1,2 +1,0 @@
-# cron
-Randomly generate cron
